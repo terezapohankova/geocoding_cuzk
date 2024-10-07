@@ -30,11 +30,11 @@ with open(ADDRESSES_CSV, encoding='utf-8') as csv_file:
 # Base URL of the Geocode API service.
 for id_row, address in link_lines:
     link = f"{LINK_FIND}?text={address}{STATIC_PARAMS}"
-    pprint(link)
+    pprint(f"Geocoding ID: {id_row}")
 
     # send a task to the server based on the link above
     try:
-        time.sleep(1)  # to avoid overwhelming the server
+        time.sleep(0.5)  # to avoid overwhelming the serverfa
         response = requests.get(link)
         response.raise_for_status()
         logging.info('connected to: ' + link)
