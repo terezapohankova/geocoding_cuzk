@@ -1,3 +1,6 @@
 *.log
-*.exe
+.exe
 here_*
+build/
+dist/
+*.spec
