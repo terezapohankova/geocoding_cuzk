@@ -1,0 +1,7 @@
+ID;latitude;longitude;lat_nav;lon_nav;label;country;state;county;city;district;street;houseNum;postal;relevance;matchlevel
+21;49.05298;17.52929;49.05288;17.52937;Popovice 39, 686 04 Popovice, Česká Republika;CZE;Zlínský kraj;Uherské Hradiště;Popovice;Popovice;Popovice;39;686 04;1.0;houseNumber
+21;49.10674;16.61443;49.10657;16.61464;Popovice 39, 664 61 Popovice, Česká Republika;CZE;Jihomoravský kraj;Brno-venkov;Popovice;Popovice;Popovice;39;664 61;1.0;houseNumber
+21;49.69583;14.75284;49.69586;14.75299;Popovice 39, 257 01 Popovice, Česká Republika;CZE;Středočeský kraj;Benešov;Popovice;Popovice;Popovice;39;257 01;1.0;houseNumber
+38;49.06881;17.4859;49.06881;17.4859;Vinohradská, 686 05 Uherské Hradiště, Česká Republika;CZE;Zlínský kraj;Uherské Hradiště;Uherské Hradiště;Uherské Hradiště;Vinohradská;;686 05;0.94;street
+38;49.07018;17.47719;49.07018;17.47719;Vinohradská, 686 01 Uherské Hradiště, Česká Republika;CZE;Zlínský kraj;Uherské Hradiště;Uherské Hradiště;Uherské Hradiště;Vinohradská;;686 01;0.94;street
+38;49.06632;17.5005;49.06632;17.5005;Vinohradská, 686 05 Uherské Hradiště, Česká Republika;CZE;Zlínský kraj;Uherské Hradiště;Uherské Hradiště;;Vinohradská;;686 05;0.94;street
